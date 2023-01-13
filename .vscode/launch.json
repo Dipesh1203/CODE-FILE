@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch compress_String",
+            "request": "launch",
+            "mainClass": "compress_String",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch practicejava1",
+            "request": "launch",
+            "mainClass": "practicejava1",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Writeaprogramtoenterthenumberstilltheuserwantsandattheendit",
+            "request": "launch",
+            "mainClass": "Writeaprogramtoenterthenumberstilltheuserwantsandattheendit",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch all_sorting_code",
+            "request": "launch",
+            "mainClass": "all_sorting_code",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch buyandsellstock",
+            "request": "launch",
+            "mainClass": "buyandsellstock",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculateshortestditance",
+            "request": "launch",
+            "mainClass": "calculateshortestditance",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch elemantatindexafterrotation",
+            "request": "launch",
+            "mainClass": "elemantatindexafterrotation",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ispelindrome",
+            "request": "launch",
+            "mainClass": "ispelindrome",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxsubarraykadans",
+            "request": "launch",
+            "mainClass": "maxsubarraykadans",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceJava",
+            "request": "launch",
+            "mainClass": "practiceJava",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_Max_sumofsubArray",
+            "request": "launch",
+            "mainClass": "print_Max_sumofsubArray",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_Sub_Array",
+            "request": "launch",
+            "mainClass": "print_Sub_Array",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversematrix",
+            "request": "launch",
+            "mainClass": "reversematrix",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiralmatrix",
+            "request": "launch",
+            "mainClass": "spiralmatrix",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiralordermatrix",
+            "request": "launch",
+            "mainClass": "spiralordermatrix",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch staircasesort",
+            "request": "launch",
+            "mainClass": "staircasesort",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_diagonal_matrix",
+            "request": "launch",
+            "mainClass": "sum_of_diagonal_matrix",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch transposeofmatrix",
+            "request": "launch",
+            "mainClass": "transposeofmatrix",
+            "projectName": "CODE FILE_fb0176f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch trappingrainwater",
+            "request": "launch",
+            "mainClass": "trappingrainwater",
+            "projectName": "CODE FILE_fb0176f4"
+        }
+    ]
+}
